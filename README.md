@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NNavickas
 - 👀 I’m interested in coding, NFTs, Harry Potter, home design and construction.
 - 🌱 I’m currently learning EdX Skills for Life - Front-End Web Dev.
-- 💞️ I’m looking to collaborate on basic coding, bug identification.
 - 📫 How to reach me instagram @nataliemel16
 
 <!---
