@@ -1,4 +1,11 @@
 # 👋 Hi, I’m Natalie.
+
+<img
+  src="https://github.com/<uNNavickas/NNavickas/blob/main/images/stat.svg"
+  alt="WakaTime NNavickas"
+/>
+
+
 - 👀 I’m interested in coding, NFTs, Harry Potter, home design and construction.
 - 🌱 I’m currently learning EdX Skills for Life - Front-End Web Dev.
 - 🏃 Training for the [London Marathon 2023](https://2023tcslondonmarathon.enthuse.com/pf/natalie-ellis-poppy-amelia?utm_source=EnthuseSendGrid&utm_medium=email&utm_campaign=website)
